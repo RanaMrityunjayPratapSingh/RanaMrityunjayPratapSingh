@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RanaMrityunjayPratapSingh
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m Working as Data Engineer
 - 📫 How to reach me ranamrityunjayprataps@gmail.com
 
 <!---
